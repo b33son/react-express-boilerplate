@@ -1,0 +1,12 @@
+React + Express Boilerplate
+
+Run:
+  1. npm install
+  2. npm run client-install
+  
+Config: 
+  1. MongoDB: Add URI to DB in keys.js "mongodb://<user>:<password>@ds241133.mlab.com:41133/mern_shopping"
+
+Start client & server
+  1. npm run dev
+
